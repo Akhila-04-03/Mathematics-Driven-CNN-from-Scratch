@@ -54,7 +54,7 @@ Each CNN component is carefully implemented based on these core mathematical con
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/custom-cnn-mnist.git
+   git clone https://github.com/Akhila-04-03/Mathematics-Driven-CNN-from-Scratch.git
    cd custom-cnn-mnist
    ```
 
@@ -68,8 +68,9 @@ Each CNN component is carefully implemented based on these core mathematical con
 After training, the model will show accuracy on test data, with loss and accuracy plotted to visualize training progress.
 
 ## Contact
+For further discussions feel free to reach out me ;
 
-- Emaail: [Akhila Raveendran P M](raveendranakhila629@gmail.com)
+- Emaail: [Akhila Raveendran P M](raveendranakhila629@gmail.com).
 -LinkedIn:[Akhila Raveendran P M](https://www.linkedin.com/in/akhila-raveendran-pm/)
 
 ---
