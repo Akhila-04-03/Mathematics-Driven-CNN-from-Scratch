@@ -70,7 +70,7 @@ After training, the model will show accuracy on test data, with loss and accurac
 ## Contact
 For further discussions feel free to reach out me ;
 
-- Emaail: [Akhila Raveendran P M](raveendranakhila629@gmail.com).
+- Email: [Akhila Raveendran P M](raveendranakhila629@gmail.com).
 -LinkedIn:[Akhila Raveendran P M](https://www.linkedin.com/in/akhila-raveendran-pm/)
 
 ---
