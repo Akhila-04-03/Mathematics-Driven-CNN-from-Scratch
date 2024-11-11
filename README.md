@@ -36,7 +36,7 @@ The CNN follows a basic structure:
 
 ### Key Math Concepts
 
-Each CNN component is carefully implemented based on these core mathematical concepts:
+Each CNN component is implemented based on these core mathematical concepts:
 
 - **Convolution**: Applies filters over the image to learn features like edges and textures.
 - **Pooling**: Reduces dimensions by selecting the maximum value within a small window.
